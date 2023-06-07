@@ -1,2 +1,2 @@
 # my-website
-personal website files
+personal website
