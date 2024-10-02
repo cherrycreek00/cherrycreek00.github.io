@@ -3,11 +3,13 @@ body {
 }
 h1 {
   color: black;
-  font-family:terminus;
+  font-family:terminus, consolas, monospace;
   font-size: 200%;
+  line-height: 0.8:
 }
 p {
   color: black;
-  font-family: terminus;
-  font-size: 100%;
+  font-family: terminus, consolas, monospace;
+  font-size: 115%;
+  line-height: 0.9;
 }
