@@ -1,1 +1,13 @@
-
+body {
+  background-color: mistyrose;
+}
+h1 {
+  color: black;
+  font-family:terminus;
+  font-size: 200%;
+}
+p {
+  color: black;
+  font-family: terminus;
+  font-size: 100%;
+}
