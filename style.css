@@ -5,11 +5,11 @@ h1 {
   color: black;
   font-family:terminus, consolas, monospace;
   font-size: 200%;
-  line-height: 0.8:
+  line-height: 1.2
 }
 p {
   color: black;
   font-family: terminus, consolas, monospace;
   font-size: 115%;
-  line-height: 0.9;
+  line-height: 1.2;
 }
