@@ -1,5 +1,6 @@
 body {
   background-color: mistyrose;
+  cursor: url('mousecursor.png'), auto;
 }
 h1 {
   color: black;
