@@ -14,3 +14,9 @@ p {
   font-size: 115%;
   line-height: 1.2;
 }
+h1 {
+  color: black;
+  font-family:terminus, courier, monospace;
+  font-size: 75%;
+  line-height: 1
+}
