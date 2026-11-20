@@ -1,0 +1,56 @@
+<!DOCTYPE html><html><head><meta name="viewport"content="width=device-width"><title>the shaking reed</title><style>:root{font-family:"Sans-Serif";font-size:20px;font-weight:300;}#main{display:flex;justify-content:center;align-items:flex-start;}a{text-decoration:none;font-weight:600;}#arrowbar{justify-content:center;display:flex;padding-right:10px;padding-left:10px;padding-top:19px;}#arrow1{color:black;border:solid gray 1px;padding:5px;padding-top:0px;padding-bottom:2px;border-radius:9px;margin-right:10px;}#arrow2{color:black;border:solid gray 1px;padding:5px;padding-top:0px;padding-bottom:2px;border-radius:9px;}#noarrow1{color:transparent;border:solid transparent 1px;padding:5px;margin-right:10px;}#noarrow2{color:transparent;border:solid transparent 1px;padding:5px;}#arrowbox{border:solid gray 1px;color:gray;}#arrow1:hover,#arrow2:hover{background-color:black;color:white;cursor:default;transition:0.1s;}#arrow1:active,#arrow2:active{margin-top:2px;}#content{}@media(prefers-color-scheme:dark){:root{color:white;background-color:black;}#arrow1,#arrow2{color:white;}#arrow1:hover,#arrow2:hover{background-color:white;color:black;}}@media screen and (width>=800px){#content{width:800px;}}@media screen and (width<=400px){p{font-size:16px;}}</style></head><body><div id="main"><div id="arrowbar">
+<!--+--------------------------------INSTRUCTIONS--------------------------------+
+    |                                                                            |
+    |    STEP 1:  delete "index.html" from this folder. open the existing        |
+    |             article named with the highest number and keep it open.        |
+    |             We'll call that the old article, and this the new article.     |
+    |                                                                            |
+    |    STEP 2:  in the new article, enter the old's url, just the number,      |
+    |             here between the quotation marks.                              |
+    |              |                                                             |
+    |              |                                                             |
+    |              v                                                             |-->                   
+<a id="arrow1"href="19">&#8592;</a></div><div id="content">
+<!--|                                                                            |
+    |    STEP 3:  in the new article, put the date, title, and article text      |
+    |             between the <p> and </p> tags below.                           |
+    |                                                                            |
+    |             DATE:                                                          |-->                                                      
+                  <p>August 25, 2025</p>
+<!--|                                                                            |
+    |             TITLE:                                                         |-->
+<b>               <p>Getting Back</p>                                                    </b>
+<!--|                                                                            |
+    |             ARTICLE TEXT:  [ add extra <p></p> tags for more paragraphs ]  |-->
+                  <p>Outside my screen door is the cool summer darkness and a symphony of crickets and critters of the pre-dawn. It's the first day
+back to work and the summer (excluding the labor day weekend bittersweet last glimpses of summer) is over. Gone are leisurely hours
+spent in the sun or long walks. Afternoons sitting with a book, wittling the days away, or exciting trips. Summer of 2025 is now a
+glorious memory. My life for the past few years has been neatly divided into summer and not summer, a time to make money and a time
+to spend money, a time to work and a time to rest. I think it a misfortune that everyone cannot have some kind of division in life
+like this. It seems that Creation beckons us to take the seasonal approach to life, everything in creation has its season, should
+man be any different? just as much as I love to labor and earn my bread by the sweat of my brow, so too do I like to rest. There is 
+something of being made in the image of God in all this. 6 days of creation and one of rest. I deeply enjoyed my day (or three months)
+of rest, but now I yearn for my days of creation! All of us have some part in making Creation special. If all of us just did one tiny
+part to make Creation wonderfully alive, it would be overwhelming alive and leaping! It's essential to see humanity as the pinnacle
+of creation and it's ultimate caretaker. Not apart of creation, but its essential part. We are all very much a part of the natural 
+cycles as is the tree or the bird or any living thing. I will embrace the cycles of creation and my duty therein!</p>
+<!--|                                                                            |
+    |             SIGNATURE:                                                     |-->
+                  <p>~Alex</p>
+<!--|                                                                            |
+    |    STEP 4:  in the old article, add the new article's url number           |
+    |             between the quotation marks at this spot. the new url should   |
+    |             be the old one plus one.        |
+    |                                             |                              |        
+    |                                             v                              |-->       
+</pre></div><div id="arrowbar"><a id="arrow2"href="21">&#8594;</a></div></div></body>
+<!--|                                                                            |
+    |    STEP 5:  in the new article, change "arrow2" above to "noarrow2".       |
+    |             in the old article, change "noarrow2" to "arrow2".             |
+    |                                                                            |
+    |    STEP 6:  copy the new article and rename the copy "index.html".         |
+    |                                                                            |
+    |    STEP 7:  delete "index.html" and the highest number article from        |
+    |             github and add the old and new article, and "index.html"       |
+    |                                                                            |
+    +____________________________________________________________________________+-->

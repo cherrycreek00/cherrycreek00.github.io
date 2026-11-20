@@ -1,0 +1,57 @@
+<!DOCTYPE html><html><head><meta name="viewport"content="width=device-width"><title>the shaking reed</title><style>:root{font-family:"Sans-Serif";font-size:20px;font-weight:300;}#main{display:flex;justify-content:center;align-items:flex-start;}a{text-decoration:none;font-weight:600;}#arrowbar{justify-content:center;display:flex;padding-right:10px;padding-left:10px;padding-top:19px;}#arrow1{color:black;border:solid gray 1px;padding:5px;padding-top:0px;padding-bottom:2px;border-radius:9px;margin-right:10px;}#arrow2{color:black;border:solid gray 1px;padding:5px;padding-top:0px;padding-bottom:2px;border-radius:9px;}#noarrow1{color:transparent;border:solid transparent 1px;padding:5px;margin-right:10px;}#noarrow2{color:transparent;border:solid transparent 1px;padding:5px;}#arrowbox{border:solid gray 1px;color:gray;}#arrow1:hover,#arrow2:hover{background-color:black;color:white;cursor:default;transition:0.1s;}#arrow1:active,#arrow2:active{margin-top:2px;}#content{}@media(prefers-color-scheme:dark){:root{color:white;background-color:black;}#arrow1,#arrow2{color:white;}#arrow1:hover,#arrow2:hover{background-color:white;color:black;}}@media screen and (width>=800px){#content{width:800px;}}@media screen and (width<=400px){p{font-size:16px;}}</style></head><body><div id="main"><div id="arrowbar">
+<!--+--------------------------------INSTRUCTIONS--------------------------------+
+    |                                                                            |
+    |    STEP 1:  delete "index.html" from this folder. open the existing        |
+    |             article named with the highest number and keep it open.        |
+    |             We'll call that the old article, and this the new article.     |
+    |                                                                            |
+    |    STEP 2:  in the new article, enter the old's url, just the number,      |
+    |             here between the quotation marks.                              |
+    |              |                                                             |
+    |              |                                                             |
+    |              v                                                             |-->                   
+<a id="arrow1"href="48">&#8592;</a></div><div id="content">
+<!--|                                                                            |
+    |    STEP 3:  in the new article, put the date, title, and article text      |
+    |             between the <p> and </p> tags below.                           |
+    |                                                                            |
+    |             DATE:                                                          |-->                                                      
+                  <p>October 8, 2025</p>
+<!--|                                                                            |
+    |             TITLE:                                                         |-->
+<b>               <p>The Observer</p>                                                    </b>
+<!--|                                                                            |
+    |             ARTICLE TEXT:  [ add extra <p></p> tags for more paragraphs ]  |-->
+                  <p>Sometimes in life when everything seems to be overwhelming, I want to take on this role that I call the observer. Some
+one who exists just to see life, but not to participate or to be seen by life. Seeing life happen is so very dear to me, but
+for me, humans are the scariest thing on the planet, and just when I think that I understand them, I find that I'm not at all
+where I thought I was. Humanity is incredible though because it is nothing less than a portion of the living God. The fullness
+of God saw it fit to send His only son to become a part of humanity, to live admist humanity in it's entirety. I believe that
+Jesus saw this too, in His draw to save the world, but also the way that the world wearied Him greatly and the many such scenes
+of Jesus sneaking away to some hidden mountain top to be along. It's that desire to float up just high enough to be above, but
+still a part - an intermediary space. For about two years, I was deeply interested in Quaker worship and would every Sunday go
+to a Quaker meeting (a grand old 19th century meeting house with an ancient oak tree and massive cemetery behind). When I was
+well in practice, I could feel my spirit leave my body and hover just above my head - being drawn out upward toward God. This
+is only to say that there is something of being alone with people that is special in God's eyes. My attraction to humanity is
+the greatest driver in my life, but the complexity scares me - interacting with humanity is nothing less than comeing to a more
+perfect knowledge of God.</p>
+<!--|                                                                            |
+    |             SIGNATURE:                                                     |-->
+                  <p>~Alex</p>
+<!--|                                                                            |
+    |    STEP 4:  in the old article, add the new article's url number           |
+    |             between the quotation marks at this spot. the new url should   |
+    |             be the old one plus one.        |
+    |                                             |                              |        
+    |                                             v                              |-->       
+</pre></div><div id="arrowbar"><a id="arrow2"href="50">&#8594;</a></div></div></body>
+<!--|                                                                            |
+    |    STEP 5:  in the new article, change "arrow2" above to "noarrow2".       |
+    |             in the old article, change "noarrow2" to "arrow2".             |
+    |                                                                            |
+    |    STEP 6:  copy the new article and rename the copy "index.html".         |
+    |                                                                            |
+    |    STEP 7:  delete "index.html" and the highest number article from        |
+    |             github and add the old and new article, and "index.html"       |
+    |                                                                            |
+    +____________________________________________________________________________+-->
